@@ -1,6 +1,8 @@
 # infinity-newsletter
 
-Um mini projeto de template de **newsletter** apemas para fins de treinamento de estilização. O objetivo é fornecer uma interface interativa e visualmente facil de entender para o envio de boletins informativos a assinantes.
+![infiinty](infinity.png)
+
+Um mini projeto de template de **newsletter** apenas para fins de treinamento de estilização. O objetivo é fornecer uma interface interativa e visualmente facil de entender para o envio de boletins informativos a assinantes.
 
 ## Tecnologias utilizadas
 
