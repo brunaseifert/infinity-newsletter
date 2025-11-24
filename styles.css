@@ -19,7 +19,7 @@ header {
     padding: 20px 0;
     position: fixed;
     width: 100%;
-    top: 30px;
+    top: 20px;
     z-index: 10;
 }
 
@@ -109,4 +109,5 @@ header nav ul li a:hover {
     right: 180px;
     width: 490px;
 }
+
 
